@@ -1,5 +1,5 @@
 [package]
-name = "bevygame"
+name = "golf-rs"
 version = "0.1.0"
 edition = "2021"
 
@@ -15,5 +15,3 @@ opt-level = 3
 
 [dependencies]
 bevy = {version="0.10.1", features = ["mp3"]}
-rand = "0.8.5"
-bevy_rapier2d = {version = "0.21.0 "}
